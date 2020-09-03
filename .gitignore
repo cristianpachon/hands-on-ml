@@ -1,4 +1,6 @@
 data/
 code/01_get_in_touch/.ipynb_checkpoints/
 code/01_get_in_touch/__pycache__/
-code/01_get_in_touch/forest_reg.pkl
+code/01_get_in_touch/forest_reg.pk
+*/ipynb_checkpoint
+*.h5
